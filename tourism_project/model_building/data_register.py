@@ -3,7 +3,7 @@ from huggingface_hub import HfApi, create_repo
 import os
 
 
-repo_id = "neelamsh/Tourist-Prediction"
+repo_id = "neelam531/Tourist-Prediction"
 repo_type = "dataset"
 
 # Initialize API client
